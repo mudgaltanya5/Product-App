@@ -3,7 +3,6 @@ import ProductList from "./components/ProductList";
 import SearchBar from "./components/SearchBar";
 import Loader from "./components/Loader";
 import Error from "./components/Error";
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   const [products, setProducts] = useState([]);
