@@ -63,9 +63,20 @@ Run the app on: [http://localhost:3000](http://localhost:3000) to view it in you
      This improves readability and maintainability.
   </ul>
   <li>
-    Component Structure
+     Data Flow
   </li>
-  The application is divided into reusable components:
-</ol>
+  <ul>
+     <li>Data is fetched in App.js</li>
+     <li>Passed to child components via props</li>
+     <li>Search updates filtered data in parent components</li>
+  </ul>
+ <li>
+   Search Implementation
+ </li>
+  Implemented using Javascript .filter() method for real-time results.
+</ol><hr/>
+
+# Author
+Tanya Mudgal
 
 
