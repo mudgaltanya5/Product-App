@@ -27,7 +27,22 @@ git clone [https://github.com/mudgaltanya5/product-app.git](https://github.com/m
 cd product-app<br/>
 npm install<br/>
 npm start<br/>
-Run the app on: [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Run the app on: [http://localhost:3000](http://localhost:3000) to view it in your browser.<hr/>
 
+# Key Architectural Decisions
+<ol>
+  <li>
+    State Management
+  </li>
+  Used React Hooks:
+  <ul>
+    <li>
+      useState → manage products, filtered data, loading, and error states
+    </li>
+     <li>
+     useEffect → fetch API data on component mount
+    </li>
+  </ul>
+</ol>
 
 
