@@ -1,7 +1,7 @@
 # Product Explorer App
 A simple and responsive React application that allows users to browse, search and filter the products using an API.<hr/>
 
-#Features
+# Features
 <ul>
   <li>Real Time Search Functionality</li>
   <li>Product listing (image, title, price)</li>
