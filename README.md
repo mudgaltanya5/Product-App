@@ -19,7 +19,7 @@ A simple and responsive React application that allows users to browse, search an
 
 # API Used
 Fake Store API<br/>
-Open [https://fakestoreapi.com/products](https://fakestoreapi.com/products)
+Open [https://fakestoreapi.com/products](https://fakestoreapi.com/products)<br/>
 Provides product data such as title, image , price and rating.<hr/>
 
 # Setup Instructions
