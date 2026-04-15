@@ -8,3 +8,12 @@ A simple and responsive React application that allows users to browse, search an
   <li>Loading and error handling</li>
   <li>Responsive UI using Bootstrap</li>
 </ul><hr/>
+
+#  Technology Used
+<ul>
+  <li>React js</li>
+  <li>Javascript(E65+)</li>
+  <li>HTML & CSS</li>
+  <li>Bootstrap</li>
+</ul><hr/>
+
