@@ -18,7 +18,7 @@ A simple and responsive React application that allows users to browse, search an
 </ul><hr/>
 
 # API Used
-Fake Store API
+Fake Store API<br/>
 Open [https://fakestoreapi.com/products](https://fakestoreapi.com/products) to view it in your browser.
 
 
