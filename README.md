@@ -17,3 +17,8 @@ A simple and responsive React application that allows users to browse, search an
   <li>Bootstrap</li>
 </ul><hr/>
 
+# API Used
+Fake Store API
+Open [https://fakestoreapi.com/products](https://fakestoreapi.com/products) to view it in your browser.
+
+
