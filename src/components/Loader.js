@@ -1,5 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function Loader() {
-    return <h4 className="text-center">Loading...</h4>
+    return <h2>Loading...</h2>;
 }
+
+export default Loader;

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ProductList from "./components/ProductList";
 import SearchBar from "./components/SearchBar";
+import Loader from "./components/Loader";
 import Error from "./components/Error";
 
 function App() {
