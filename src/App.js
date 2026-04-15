@@ -42,7 +42,7 @@ function App() {
         setFilteredProducts={setFilteredProducts}
       />
 
-      {loading && <h3 className="text-center mt-4">Loading...</h3>}
+      {loading && <Loader />}
 
       {error && <Error message={error} />}
 
