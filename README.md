@@ -43,6 +43,29 @@ Run the app on: [http://localhost:3000](http://localhost:3000) to view it in you
      useEffect → fetch API data on component mount
     </li>
   </ul>
+  <li>
+    Component Structure
+  </li>
+  The application is divided into reusable components:
+  <ul>
+    <li>
+      Navbar
+    </li>
+     <li>
+       SearchBar
+    </li>
+    <li>
+      ProductList
+    </li>
+     <li>
+       ProductCard
+    </li>
+     This improves readability and maintainability.
+  </ul>
+  <li>
+    Component Structure
+  </li>
+  The application is divided into reusable components:
 </ol>
 
 
