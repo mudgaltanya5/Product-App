@@ -19,6 +19,15 @@ A simple and responsive React application that allows users to browse, search an
 
 # API Used
 Fake Store API<br/>
-Open [https://fakestoreapi.com/products](https://fakestoreapi.com/products) to view it in your browser.
+Open [https://fakestoreapi.com/products](https://fakestoreapi.com/products)
+Provides product data such as title, image , price and rating.<hr/>
+
+# Setup Instructions
+git clone [https://github.com/mudgaltanya5/product-app.git](https://github.com/mudgaltanya5/product-app.git)
+cd product-app
+npm install
+npm start
+Run the app on: [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 
